@@ -1,0 +1,3 @@
+#1.SSH登录：WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!
+#first.  ssh-keygen -R +输入服务器的IP
+#second.   ssh root@服务器地址
